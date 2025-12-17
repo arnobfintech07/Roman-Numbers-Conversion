@@ -22,7 +22,7 @@ You need a modern web browser or a JavaScript runtime environment which can be r
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Roman-Numers-Conversion
+    cd Roman-Numbers-Conversion
     ```
 
 ## Code
@@ -74,4 +74,4 @@ function romanNumerals(num) {
   }
   return result;
 }
-console.log(romanNumerals(1994));
+console.log(romanNumerals(1994)); //output: MCMXCIV

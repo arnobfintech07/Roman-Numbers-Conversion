@@ -42,6 +42,6 @@ function romanNumerals(num) {
   }
   return result;
 }
-console.log(romanNumerals(1994)); 
+console.log(romanNumerals(1994)); //output: MCMXCIV
 
 
